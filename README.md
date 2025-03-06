@@ -3,12 +3,13 @@
 This code was created by me and utilizes PESummary.
 
 Yehu I. Maimon
+
 Ofek Birnholtz
 
 [Provide Citation Information Here]
 
 ## Description
-This code generates our results in this paper.
+This code generates our results and figures in our paper.
 
 ## License
 MIT License
