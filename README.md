@@ -6,7 +6,7 @@ Yehu I. Maimon
 
 Ofek Birnholtz
 
-[Provide Citation Information Here]
+https://arxiv.org/abs/2505.10199
 
 ## Description
 This code generates our results and figures in our paper.
